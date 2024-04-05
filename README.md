@@ -2,6 +2,6 @@
 
 ### Screenshot
 
-![screenshot](/Screenshorts/Airbnb-clone.png)
+![screenshot](/Screenshots/Airbnb-clone.png)
 
 
